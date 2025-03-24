@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap; overflow-x: auto;">
 
   <!-- 백준 티어 -->
   <div>
