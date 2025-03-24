@@ -1,4 +1,16 @@
+  <div style="
+    flex: 0 0 auto;
+    width: 300px;          /* 고정 폭으로 지정 */
+    text-align: center;
+  ">
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/meendragon"
+           alt="Gitanimals Farm"
+           style="width: 100%; height: auto; display: block; margin: auto;" />
+    </a>
+  </div>
 <!-- GitHub 사용 언어 및 통계 -->
+
 <div align="center">
   <!-- 가장 많이 사용한 언어 (도넛형) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -37,17 +49,7 @@
   </div>
 
   <!-- Gitanimals 농장 박스 -->
-  <div style="
-    flex: 0 0 auto;
-    width: 300px;          /* 고정 폭으로 지정 */
-    text-align: center;
-  ">
-    <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/meendragon"
-           alt="Gitanimals Farm"
-           style="width: 100%; height: auto; display: block; margin: auto;" />
-    </a>
-  </div>
+
 </div>
 
 <!-- 기술 스택 -->
