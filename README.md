@@ -69,9 +69,6 @@
   <a href="mailto:skymjh2013@naver.com">
     <img src="https://img.shields.io/badge/YOUR_EMAIL_ADDRESS-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://velog.io/@YOUR_VELOG_ID">
-    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white" />
-  </a>
 </div>
 
 <!-- 방문자 수 카운터 -->
