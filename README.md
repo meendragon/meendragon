@@ -69,7 +69,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=atropic159"/>
   </div>
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/DongWonLee2"/ ></a>
+  <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/kimhy1124"/ ></a>
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
