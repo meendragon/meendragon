@@ -2,13 +2,13 @@
 
   <!-- 백준 티어 -->
   <div>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" alt="Baekjoon Tier"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" alt="Baekjoon Tier" style="display: block;" />
   </div>
 
   <!-- Gitanimals 농장 -->
   <div>
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm" style="width: 200px;"/>
+      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm" style="width: 200px; display: block;" />
     </a>
   </div>
 
