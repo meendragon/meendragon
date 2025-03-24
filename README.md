@@ -36,20 +36,6 @@
   box-sizing: border-box;
   overflow-x: auto;        /* 폭이 모자랄 경우 가로 스크롤 허용 */
 ">
-
-  <!-- 백준 티어 박스 -->
-  <div style="
-    flex: 0 0 auto;
-    width: 300px;          /* 고정 폭으로 지정 */
-    text-align: center;
-  ">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124"
-         alt="Baekjoon Tier"
-         style="width: 100%; height: auto; display: block; margin: auto;" />
-  </div>
-
-  <!-- Gitanimals 농장 박스 -->
-
 </div>
 
 <!-- 기술 스택 -->
