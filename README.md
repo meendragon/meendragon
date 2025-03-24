@@ -1,14 +1,18 @@
 <!-- 헤더 영역 -->
-<div align="center">
- <div>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+  
+  <!-- 백준 티어 -->
+  <div>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" alt="Baekjoon Tier"/>
   </div>
-    <div>
+
+  <!-- Gitanimals 농장 -->
+  <div>
     <a href="https://github.com/devxb/gitanimals">
       <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm"/>
     </a>
   </div>
- 
+
 </div>
 
 <!-- GitHub 사용 언어 및 통계 -->
