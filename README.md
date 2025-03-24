@@ -1,6 +1,14 @@
 <!-- 헤더 영역 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B89DC&height=250&section=header&text=MEENDRAGON&fontSize=90" />
+ <div>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" alt="Baekjoon Tier"/>
+  </div>
+    <div>
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm"/>
+    </a>
+  </div>
+ 
 </div>
 
 <!-- GitHub 사용 언어 및 통계 -->
@@ -56,32 +64,22 @@
 <!-- 기타 정보 -->
 <h2 align="center">🧩 etc 🧩</h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-  
-  <!-- 백준 티어 표시 -->
-  <div>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" alt="Baekjoon Tier"/>
-  </div>
 
-  <!-- Gitanimals 농장 -->
-  <div>
-    <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm"/>
-    </a>
-  </div>
-
-</div>
-
-<!-- 연락처 -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:skymjh2013@naver.com">
     <img src="https://img.shields.io/badge/YOUR_EMAIL_ADDRESS-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-<!-- 방문자 수 카운터 -->
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeendragon&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true"/>
   </a>
 </div>
+</div>
+
+<!-- 연락처 -->
+
+
+<!-- 방문자 수 카운터 -->
+
