@@ -1,13 +1,13 @@
 <!-- 헤더 영역 -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-  
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+
   <!-- 백준 티어 -->
-  <div>
+  <div style="flex: 0 1 auto;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" alt="Baekjoon Tier"/>
   </div>
 
   <!-- Gitanimals 농장 -->
-  <div>
+  <div style="flex: 0 1 auto;">
     <a href="https://github.com/devxb/gitanimals">
       <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm"/>
     </a>
