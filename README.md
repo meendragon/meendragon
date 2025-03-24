@@ -1,3 +1,19 @@
+<!-- GitHub 사용 언어 및 통계 -->
+<div align="center">
+  <!-- 가장 많이 사용한 언어 (도넛형) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meendragon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="38%" />
+  </a>
+  <!-- 일반 GitHub 활동 통계 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=meendragon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
+  </a>
+
+  <!-- 활동 그래프 -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=meendragon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+  </a>
+</div>
 <div style="
   display: flex;
   flex-wrap: nowrap;        /* 한 줄로 강제 배치 */
@@ -32,23 +48,6 @@
            style="width: 100%; height: auto; display: block; margin: auto;" />
     </a>
   </div>
-</div>
-
-<!-- GitHub 사용 언어 및 통계 -->
-<div align="center">
-  <!-- 가장 많이 사용한 언어 (도넛형) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meendragon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="38%" />
-  </a>
-  <!-- 일반 GitHub 활동 통계 -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=meendragon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
-  </a>
-
-  <!-- 활동 그래프 -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=meendragon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
-  </a>
 </div>
 
 <!-- 기술 스택 -->
