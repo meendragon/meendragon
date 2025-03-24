@@ -50,13 +50,10 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />
 </div>
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img alt="day contribution" src="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/day.svg" width="45%" />
+  <img alt="night contribution" src="https://raw.githubusercontent.com/oyeong011/oyeong011/output-3d-contrib/night.svg" width="45%" />
+</div>
 <!-- 기타 정보 -->
 <h2 align="center">🧩 etc 🧩</h2>
 <div align="center">
