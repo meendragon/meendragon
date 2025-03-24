@@ -1,6 +1,6 @@
 <!-- 헤더 영역 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B89DC&height=250&section=header&text=MEENDRAGON%20GITHUB&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B89DC&height=250&section=header&text=MEENDRAGON&fontSize=90" />
 </div>
 
 <!-- GitHub 사용 언어 및 통계 -->
