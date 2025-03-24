@@ -1,15 +1,34 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap; width: 100%;">
-  <!-- 박스들... -->
+<div style="
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 40px; 
+  flex-wrap: nowrap;  /* 한 줄로 강제 배치 */
+  width: 100%;        /* 부모 컨테이너가 충분히 넓게 잡히도록 지정 */
+  box-sizing: border-box;
+">
 
   <!-- 백준 티어 -->
-  <div style="flex: 1 1 200px; max-width: 300px; text-align: center;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" alt="Baekjoon Tier" style="max-width: 100%; height: auto; display: block; margin: auto;" />
+  <div style="
+    flex: 0 0 auto;       /* 자식 요소가 고정 폭으로 잡히도록 */
+    max-width: 300px; 
+    text-align: center;
+  ">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" 
+         alt="Baekjoon Tier" 
+         style="max-width: 100%; height: auto; display: block; margin: auto;" />
   </div>
 
   <!-- Gitanimals 농장 -->
-  <div style="flex: 1 1 200px; max-width: 300px; text-align: center;">
+  <div style="
+    flex: 0 0 auto;
+    max-width: 300px; 
+    text-align: center;
+  ">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm" style="max-width: 50%; height: auto; display: block; margin: auto;" />
+      <img src="https://render.gitanimals.org/farms/meendragon" 
+           alt="Gitanimals Farm" 
+           style="max-width: 100%; height: auto; display: block; margin: auto;" />
     </a>
   </div>
 
