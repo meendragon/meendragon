@@ -8,7 +8,7 @@
   <!-- Gitanimals 농장 -->
   <div>
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm"/>
+      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm" style="width: 200px;"/>
     </a>
   </div>
 
