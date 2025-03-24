@@ -1,4 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap; width: 100%;">
+  <!-- 박스들... -->
 
   <!-- 백준 티어 -->
   <div style="flex: 1 1 200px; max-width: 300px; text-align: center;">
