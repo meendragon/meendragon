@@ -9,7 +9,7 @@
   <!-- Gitanimals 농장 -->
   <div style="flex: 1 1 200px; max-width: 300px; text-align: center;">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm" style="max-width: 100%; height: auto; display: block; margin: auto;" />
+      <img src="https://render.gitanimals.org/farms/meendragon" alt="Gitanimals Farm" style="max-width: 50%; height: auto; display: block; margin: auto;" />
     </a>
   </div>
 
