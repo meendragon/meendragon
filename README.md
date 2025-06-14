@@ -1,6 +1,6 @@
 ### 🍀 About Me
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://i.pinimg.com/originals/92/5c/a0/925ca0675f42a52072ba0adbc97061c3.gif" width="140">
+  <img src="https://i.pinimg.com/originals/92/5c/a0/925ca0675f42a52072ba0adbc97061c3.gif" width="120">
   <div>
     <h2>김민형 Minhyeong Kim</h2>
     <p>👨‍💻 Artificial Intelligence Developer</p>
@@ -19,18 +19,18 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 40px;
-  margin: 40px 0;
+  gap: 20px;
+  margin: 30px 0;
 ">
-  <div style="width: 300px;">
+  <div style="width: 240px;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="100%" />
   </div>
-  <div style="width: 300px;">
+  <div style="width: 240px;">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/meendragon" width="100%" height="100" />
+      <img src="https://render.gitanimals.org/lines/meendragon" width="100%" height="90" />
     </a>
   </div>
-  <div style="width: 300px;">
+  <div style="width: 240px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meendragon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="100%" />
     </a>
@@ -71,7 +71,7 @@
 <!-- 기타 정보 -->
 <h2 align="center">🧩 Etc 🧩</h2>
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="mailto:skymjh2013@naver.com">
     <img src="https://img.shields.io/badge/skymjh2013@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
