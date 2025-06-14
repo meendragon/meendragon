@@ -12,7 +12,7 @@
   </tr>
 </table>
 ### Experiences
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlawjddn103)](https://solved.ac/kimhy1124)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhy1124)](https://solved.ac/kimhy1124)
 
 ### Awards 
 <div align="center">
