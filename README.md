@@ -15,25 +15,21 @@
 - 
 
 <!-- 🧠 BOJ + 🐾 GitAnimals + 📊 GitHub Stats -->
-<div style="
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-  margin: 30px 0;
-">
-    <div style="flex: 1 1 45%; min-width: 200px;">
+<!-- 한 줄에 두 개씩 나오게 하고, 넘치면 줄바꿈 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1 1 300px;">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/meendragon" width="48%" height="100%" />
+      <img src="https://render.gitanimals.org/lines/meendragon" width="100%" />
     </a>
   </div>
-  <div style="flex: 1 1 45%; min-width: 200px;"">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="48%" />
+
+  <div style="flex: 1 1 300px;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="100%" />
   </div>
 
-  <div style="flex: 1 1 45%; min-width: 200px;">
+  <div style="flex: 1 1 300px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meendragon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meendragon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="100%" />
     </a>
   </div>
 </div>
