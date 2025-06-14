@@ -21,12 +21,12 @@
 <!-- 🧠 BOJ + 🐾 GitAnimals + 📊 GitHub Stats -->
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center; margin-bottom: 20px;">
   <div>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" />
-  </div>
-  <div>
     <a href="https://github.com/devxb/gitanimals">
       <img src="https://render.gitanimals.org/lines/meendragon" width="300" height="100" />
     </a>
+  </div>
+  <div>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" />
   </div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
