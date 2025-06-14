@@ -12,9 +12,18 @@
   </tr>
 </table>
 ### Experiences
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhy1124)](https://solved.ac/kimhy1124)
-
+- 
 ### Awards 
+-
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/meendragon"
+    width="600"
+    height="120"
+  />
+</a>
 <div align="center">
   <!-- 가장 많이 사용한 언어 (도넛형) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
