@@ -24,7 +24,7 @@
 ">
     <div style="width: 240px;">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/meendragon" width="50%" height="120" />
+      <img src="https://render.gitanimals.org/lines/meendragon" width="50%" height="100%" />
     </a>
   </div>
   <div style="width: 240px;">
