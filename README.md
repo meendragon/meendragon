@@ -15,7 +15,9 @@
 - 
 ### Awards 
 -
-
+ <div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124"/>
+  </div>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
