@@ -17,7 +17,7 @@
 <!-- 🧠 BOJ + 🐾 GitAnimals + 📊 GitHub Stats -->
 <div style="
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: flex-wrap;
   justify-content: center;
   gap: 20px;
   margin: 30px 0;
