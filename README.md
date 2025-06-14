@@ -15,7 +15,7 @@
 - 
 
 <!-- 🧠 BOJ + 🐾 GitAnimals + 📊 GitHub Stats -->
-<div align="center" style="
+<div style="
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
