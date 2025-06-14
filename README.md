@@ -1,15 +1,16 @@
-  <div style="
-    flex: 0 0 auto;
-    width: 300px;          /* 고정 폭으로 지정 */
-    text-align: center;
-  ">
-    <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/meendragon"
-           alt="Gitanimals Farm"
-           style="width: 100%; height: auto; display: block; margin: auto;" />
-    </a>
-  </div>
-<!-- GitHub 사용 언어 및 통계 -->
+### 🍀 About me
+<table>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/92/5c/a0/925ca0675f42a52072ba0adbc97061c3.gif" width="140">
+    </td>
+    <td>
+      <h2> 김민형 Minhyeong Kim </h2>
+      <p>👨‍💻 Artificial Intelligence Developer</p> 
+      <p>🏛 Soongsil Univ. Computer Science (2023.03 ~ now)</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <!-- 가장 많이 사용한 언어 (도넛형) -->
