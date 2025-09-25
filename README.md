@@ -3,7 +3,6 @@
   <img src="https://i.pinimg.com/originals/92/5c/a0/925ca0675f42a52072ba0adbc97061c3.gif" width="120">
   <div>
     <h2>김민형 Minhyeong Kim</h2>
-    <p>👨‍💻 Artificial Intelligence Developer</p>
     <p>🏛 Soongsil Univ. Computer Science (2023.03 ~ now)</p>
   </div>
 </div>
