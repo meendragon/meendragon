@@ -3,6 +3,7 @@
   <div>
     <h2>김민형 (Minhyeong Kim)</h2>
     <p>🏛 Soongsil Univ. Computer Science (2023.03 ~ )</p>
+    <p>🏛 Soongsil Univ. ISALAB (2026.01 ~ )</p>
   </div>
 </div>
 
