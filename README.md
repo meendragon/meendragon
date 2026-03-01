@@ -20,14 +20,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="480" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meendragon&layout=donut&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="480" />
-      </a>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="200" />
     </td>
   </tr>
 </table>
