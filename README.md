@@ -1,4 +1,12 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Minhyeong!&fontSize=40&desc=System%20Programmer%20%26%20AI%20Explorer&descSize=20" />
+</div>
 ### 🍀 About Me
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=76B900&center=true&vCenter=true&width=435&lines=System+Architecture+Enthusiast;Exploring+SSD+Firmware;Optimizing+AI+Infrastructure" alt="Typing SVG" />
+  </a>
+</div>
 <div style="display: flex; align-items: center; gap: 20px;">
   <div>
     <h2>김민형 (Minhyeong Kim)</h2>
