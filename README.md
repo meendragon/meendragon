@@ -20,10 +20,23 @@
 <table>
   <tr>
     <td align="center">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="200" />
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="280" />
     </td>
   </tr>
 </table>
+
+---
+### 🎯 Interested In
+<dib align="center">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPUDirect_Storage-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVMe_/_PCIe-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSD_Firmware_Architecture-1428A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/High_Bandwidth_Flash_(HBF)-E0004D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Architecture-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
 
 ---
 
@@ -32,6 +45,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
 ---
@@ -45,12 +60,18 @@
   <img src="https://img.shields.io/badge/LLM--RAG-8A2BE2.svg?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Model%20Compression-228B22.svg?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Edge%20AI-FF4500.svg?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 ---
 
 ### 🛠 Tools
 <div align="center">
+  <img src="https://img.shields.io/badge/MQSim-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVMeVirt-4B4B4B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
