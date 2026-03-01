@@ -10,8 +10,9 @@
 
 ---
 
-### 💼 Experiences
-- 준비 중...
+### 🔬 Current Research Focus
+- **AI Hardware Co-Design:** Low-Precision Arithmetic & Efficient Data Representation
+- **Storage Systems:** NAND Flash Reliability & Advanced Firmware Management
 
 ### 🏆 Awards
 - NYPC 코드배틀 2025 상위 100팀 특별상 (Heuristic & Reinforcement Learning)
