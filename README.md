@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <br> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?..." />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?..." />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?..." />
   <img src="https://img.shields.io/badge/Pandas-150458.svg?..." />
   <img src="https://img.shields.io/badge/NumPy-013243.svg?..." />
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?..." />
   <img src="https://img.shields.io/badge/Keras-D00000.svg?..." />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?..." />
-  <br> <img src="https://img.shields.io/badge/LLM--RAG-8A2BE2.svg?..." />
+  <img src="https://img.shields.io/badge/LLM--RAG-8A2BE2.svg?..." />
   <img src="https://img.shields.io/badge/Model%20Compression-228B22.svg?..." />
   <img src="https://img.shields.io/badge/Edge%20AI-FF4500.svg?..." />
 </div>
