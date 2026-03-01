@@ -30,14 +30,6 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="280" />
     </td>
   </tr>
-  <tr>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=meendragon&show_icons=true&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=meendragon&theme=tokyonight" />
-    </a>
-  </tr>
 </table>
 
 ---
