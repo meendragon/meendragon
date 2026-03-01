@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Minhyeong!&fontSize=40&desc=System%20Programmer%20%26%20AI%20Explorer&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hello,%20I%27m%20Minhyeong!&amp;fontSize=40&amp;desc=System%20Programmer%20%26%20AI%20Explorer&amp;descSize=20" />
 </div>
 ### 🍀 About Me
 <div align="center">
@@ -31,6 +31,14 @@
     <td align="center">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimhy1124" width="280" />
     </td>
+  </tr>
+  <tr>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=meendragon&show_icons=true&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=meendragon&theme=tokyonight" />
+    </a>
   </tr>
 </table>
 
