@@ -7,11 +7,6 @@
     <p>🏛 Soongsil Univ. ISALAB (2026.01 ~ )</p>
   </div>
 </div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=76B900&center=true&vCenter=true&width=435&lines=System+Architecture+Enthusiast;Exploring+SSD+Firmware;Optimizing+AI+Infrastructure" alt="Typing SVG" />
-  </a>
-</div>
 
 ---
 
